@@ -3,7 +3,7 @@ package exercise1;
 import java.util.Random;
 import java.util.Scanner;
 
-/*
+/**
  * @author : Prinka
  * @date 31 Jan, 2024
  */
