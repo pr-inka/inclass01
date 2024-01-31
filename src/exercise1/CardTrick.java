@@ -21,7 +21,7 @@ public class CardTrick {
         }
 
         try (Scanner scanner = new Scanner(System.in)) {
-            System.out.println("Pick a card (Enter desirable value between 1-13 and select suit between 1-4):");
+            System.out.println("Pick a card (Enter value between 1-13 and select suit between 1-4):");
             int userValue = scanner.nextInt();
             int userSuit = scanner.nextInt();
             
